@@ -1,7 +1,6 @@
 # Fastest-Learning-Methods
 Change the way you learn complex skills forever, by learing any skill 10x faster and retaining it for lifelong
-# Fastest Learning Methods
-
+-----
 This repository provides a comprehensive guide on how to learn any skill in the fastest way possible. It includes steps for finding your purpose, exploring resources, implementing knowledge, maintaining consistency, and retaining what you've learned.
 
 ## Table of Contents
